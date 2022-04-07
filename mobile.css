@@ -1,0 +1,7 @@
+#nav ul li a{
+    display: flex;
+    flex-direction: row;
+    font-size: 5px;
+    background-color: black;
+    
+}
